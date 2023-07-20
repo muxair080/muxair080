@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist from pakistan</h3>
 <img align="right" alt="Codding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muxair080&label=Profile%20views&color=0e75b6&style=flat" alt="muxair080" /> </p>
+<p align="left"> <img src="https://t3.ftcdn.net/jpg/03/04/68/52/360_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muxair080" alt="muxair080" /></a> </p>
 
