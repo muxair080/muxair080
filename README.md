@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muxair080" alt="muxair080" /></a> </p>
 
-- 🌱 I’m currently learning **Deep learning models, LLM**
+- 🌱 I’m currently learning **NLP models, LLM**
 
 - 👨‍💻 All of my projects are available at [https://muxair080.netlify.app/](https://muxair080.netlify.app/)
 
